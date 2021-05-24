@@ -1,0 +1,382 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"new",
+				"newToken"
+			],
+			[
+				"T",
+				"Token"
+			],
+			[
+				"in",
+				"int"
+			],
+			[
+				"nu",
+				"numRows"
+			],
+			[
+				"num",
+				"numRows"
+			],
+			[
+				"res",
+				"result"
+			],
+			[
+				"ne",
+				"nextPlayer"
+			],
+			[
+				"ajoute",
+				"ajoute_V2"
+			],
+			[
+				"theta",
+				"thetaRad"
+			],
+			[
+				"pr",
+				"prenom"
+			],
+			[
+				"x",
+				"x1"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Java/Ant.sublime-build",
+					""
+				],
+				[
+					"Packages/Java/JavaC.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Java/JavaC.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install package",
+				"Package Control: Install Package"
+			],
+			[
+				"install ",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 136.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/hedi/Desktop/iti1x21-asg04-master/ComputerMenacePlayer.java",
+		"/Users/hedi/Desktop/ITI 1521/Labs/Lab 10/OrderedList.java",
+		"/Users/hedi/Desktop/ITI 1521/Labs/Lab 10/OrderedStructure.java",
+		"/Users/hedi/Desktop/ITI 1521/Labs/Lab 10/STUDENT.md",
+		"/Users/hedi/Desktop/ITI 1521/Labs/Lab 9/STUDENT.md",
+		"/Users/hedi/Desktop/assignment_3/TestTransformer.java",
+		"/Users/hedi/Desktop/assignment_3/TestA03.java",
+		"/Users/hedi/Desktop/TicTacToe 2/TicTacToe/TestA03.java",
+		"/Users/hedi/Desktop/TicTacToe 2/TicTacToe/README.md",
+		"/Users/hedi/Desktop/TicTacToe 2/src/TicTacToe/TestA03.java",
+		"/Users/hedi/Desktop/TicTacToe 2/src/TicTacToe/Player.java",
+		"/Users/hedi/Desktop/TicTacToe 2/src/TicTacToe/Transformer.java",
+		"/Users/hedi/Desktop/TicTacToe 2/src/TicTacToe/TestTransformer.java",
+		"/Users/hedi/Desktop/TicTacToe 2/src/TicTacToe/TestTicTacToe.java",
+		"/Users/hedi/Desktop/TicTacToe 2/src/TicTacToe/TestEnumerations.java",
+		"/Users/hedi/Desktop/TicTacToe Final/bin/TestA03.java",
+		"/Users/hedi/Desktop/TicTacToe Final/bin/STUDENT.md",
+		"/Users/hedi/Downloads/TicTacToe/src/TicTacToe/TestA03.java",
+		"/Users/hedi/Downloads/TicTacToe/build.xml",
+		"/Users/hedi/Downloads/TicTacToe/src/TicTacToe/README.md",
+		"/Users/hedi/Downloads/TicTacToe/src/TicTacToe/Transformer.java",
+		"/Users/hedi/Desktop/Assignment 3 JAVA/TicTacToe/src/TicTacToe/TicTacToe.java",
+		"/Users/hedi/Desktop/Assignment 3 JAVA/TicTacToe/src/TicTacToe/TestA03.java",
+		"/Users/hedi/Desktop/Assignment 3 JAVA/TicTacToe/src/TicTacToe/junit/TestA03.java",
+		"/Users/hedi/Desktop/Assignment 3 JAVA/TicTacToe/src/TicTacToe/Utils.java",
+		"/Users/hedi/Desktop/Assignment 3 JAVA/TicTacToe/src/TicTacToe/TicTacToeEnumerations.java",
+		"/Users/hedi/Desktop/Assignment 3 JAVA/TicTacToe/src/TicTacToe/junit/TestEnumerations.java",
+		"/Users/hedi/Desktop/Assignment 3 JAVA/TicTacToe/src/TicTacToe/README.md",
+		"/Users/hedi/Desktop/Assignment 3 JAVA/TicTacToe/src/TicTacToe/junit/TestTransformer.java",
+		"/Users/hedi/Desktop/Assignment 3 JAVA/TicTacToe/src/TicTacToe/junit/TestTicTacToe.java",
+		"/Users/hedi/Desktop/Assignment 3 JAVA/TicTacToe/src/TicTacToe/Transformer.java",
+		"/Users/hedi/Downloads/README.en.md",
+		"/Users/hedi/Downloads/Java (1)/a3_300094626/TicTacToeGame.java",
+		"/Users/hedi/Downloads/Java (1)/a3_300094626/TicTacToe.java",
+		"/Users/hedi/Downloads/Java (1)/a3_300094626/Test.java",
+		"/Users/hedi/Downloads/Java (1)/a3_300094626/StudentInfo.java",
+		"/Users/hedi/Downloads/Java (1)/a3_300094626/ListOfGamesGenerator.java",
+		"/Users/hedi/Downloads/Java (1)/a3_300094626/GameState.java",
+		"/Users/hedi/Downloads/Java (1)/a3_300094626/CellValue.java",
+		"/Users/hedi/Downloads/Java (1)/a3_300094626/Transformation.java",
+		"/Users/hedi/Desktop/ITI 1521/Labs/Lab 8/STUDENT.md",
+		"/Users/hedi/Desktop/ITI 1521/Labs/Lab 7/Stack.java",
+		"/Users/hedi/Desktop/ITI 1521/Labs/Lab 7/Pair.java",
+		"/Users/hedi/Desktop/ITI 1521/Labs/Lab 7/NotEnoughMoneyException.java",
+		"/Users/hedi/Desktop/ITI 1521/Labs/Lab 7/Map.java",
+		"/Users/hedi/Desktop/ITI 1521/Labs/Lab 7/FullStackException.java",
+		"/Users/hedi/Desktop/ITI 1521/Labs/Lab 7/Exercise1.java",
+		"/Users/hedi/Desktop/ITI 1521/Labs/Lab 7/DynamicArrayStack.java",
+		"/Users/hedi/Desktop/ITI 1521/Labs/Lab 7/Dictionary.java",
+		"/Users/hedi/Desktop/ITI 1521/Labs/Lab 7/ArrayStack.java",
+		"/Users/hedi/Desktop/ITI 1521/Labs/Lab 7/Account.java",
+		"/Users/hedi/Desktop/ITI 1521/Labs/Lab 7/STUDENT.md",
+		"/Users/hedi/Desktop/ITI 1521/Labs/Lab 6/STUDENT.md",
+		"/Users/hedi/Downloads/Java (1)/lab6_300094626/Map.java",
+		"/Users/hedi/Downloads/Java (1)/lab6_300094626/DynamicArrayStack.java",
+		"/Users/hedi/Downloads/Java (1)/lab6_300094626/Dictionary.java",
+		"/Users/hedi/Downloads/Java (1)/lab6_300094626/ArrayStack.java",
+		"/Users/hedi/Desktop/midterm/Token.java",
+		"/Users/hedi/Desktop/midterm/Text.java",
+		"/Users/hedi/Desktop/midterm/Student.java",
+		"/Users/hedi/Desktop/midterm/ShoppingCart.java",
+		"/Users/hedi/Desktop/midterm/Number.java",
+		"/Users/hedi/Desktop/midterm/Exam.java",
+		"/Users/hedi/Desktop/midterm/Main.java",
+		"/Users/hedi/Downloads/Text.java",
+		"/Users/hedi/Desktop/midterm/ArrayStack.java",
+		"/Users/hedi/Desktop/midterm/test.java",
+		"/Users/hedi/Desktop/midterm/Stack.java",
+		"/Users/hedi/Desktop/ITI 1521/Labs/Lab 5/STUDENT.md",
+		"/Users/hedi/Desktop/ITI 1521/Labs/Lab 5/Series.java",
+		"/Users/hedi/Desktop/ITI 1521/Labs/Lab 5/Library.java",
+		"/Users/hedi/Desktop/ITI 1521/Labs/Lab 5/Geometric.java",
+		"/Users/hedi/Desktop/ITI 1521/Labs/Lab 5/BookComparator.java",
+		"/Users/hedi/Desktop/ITI 1521/Labs/Lab 5/Book.java",
+		"/Users/hedi/Desktop/ITI 1521/Labs/Lab 5/AbstractSeries.java",
+		"/Users/hedi/Desktop/ITI 1521/Labs/Lab 5/Arithmetic.java",
+		"/Users/hedi/Downloads/ASS2/STUDENT.md",
+		"/Users/hedi/Downloads/Utils (1).java",
+		"/Users/hedi/Desktop/ITI 1521/Devoirs/ASS 02/EnumerationsMain.java",
+		"/Users/hedi/Downloads/CellValue (2).java",
+		"/Users/hedi/Desktop/ITI 1521/Devoirs/ASS 02/GameState.java",
+		"/Users/hedi/Downloads/Utils.java",
+		"/Users/hedi/Desktop/ITI 1521/Devoirs/ASS 02/ComputerRandomPlayer.java",
+		"/Users/hedi/Desktop/ITI 1521/Devoirs/ASS 02/HumanPlayer.java",
+		"/Users/hedi/Downloads/EnumerationsMain.java",
+		"/Users/hedi/Desktop/ITI 1521/Devoirs/ASS 02/Player.java",
+		"/Users/hedi/Downloads/Player.java",
+		"/Users/hedi/Downloads/Java (1)/TicTacToeGame.java",
+		"/Users/hedi/Downloads/Java (1)/a2_300094626/Q1/Utils.java",
+		"/Users/hedi/Downloads/Java (1)/a2_300094626/Q1/ComputerRandomPlayer.java",
+		"/Users/hedi/Downloads/Java (1)/a2_300094626/Q1/HumanPlayer.java",
+		"/Users/hedi/Desktop/ITI 1521/Devoirs/iti1x21-asg02-master/README.md",
+		"/Users/hedi/Desktop/ITI 1521/Devoirs/iti1x21-asg02-master/docs/README.fr.md",
+		"/Users/hedi/Desktop/ITI 1521/Devoirs/iti1x21-asg02-master/TicTacToe.java",
+		"/Users/hedi/Desktop/ITI 1521/Devoirs/iti1x21-asg02-master/docs/SUBMISSION.en.md",
+		"/Users/hedi/Desktop/ITI 1521/Devoirs/iti1x21-asg02-master/EnumerationsMain.java",
+		"/Users/hedi/Desktop/ITI 1521/Devoirs/iti1x21-asg02-master/Utils.java",
+		"/Users/hedi/Desktop/ITI 1521/Devoirs/iti1x21-asg02-master/Player.java",
+		"/Users/hedi/Desktop/ITI 1521/Devoirs/iti1x21-asg02-master/docs/SUBMISSION.fr.md",
+		"/Users/hedi/Desktop/ITI 1521/Devoirs/iti1x21-asg02-master/HumanPlayer.java",
+		"/Users/hedi/Desktop/ITI 1521/Devoirs/iti1x21-asg02-master/GameState.java",
+		"/Users/hedi/Desktop/ITI 1521/Devoirs/iti1x21-asg02-master/GameMain.java",
+		"/Users/hedi/Desktop/ITI 1521/Devoirs/iti1x21-asg02-master/ComputerRandomPlayer.java",
+		"/Users/hedi/Desktop/ITI 1521/Devoirs/iti1x21-asg02-master/ComputerInOrderPlayer.java",
+		"/Users/hedi/Desktop/ITI 1521/Devoirs/iti1x21-asg02-master/CellValue.java",
+		"/Users/hedi/Desktop/ITI 1521/Devoirs/iti1x21-asg02-master/TicTacToeEnumerations.java",
+		"/Users/hedi/Downloads/NewsFeed (1).java",
+		"/Users/hedi/Desktop/ITI 1521/Labs/Lab 4/NewsFeed.java",
+		"/Users/hedi/Desktop/ITI 1521/Labs/Lab 4/STUDENT.md",
+		"/Users/hedi/Desktop/ITI 1521/Labs/Lab 4/TextPost.java",
+		"/Users/hedi/Desktop/ITI 1521/Labs/Lab 4/Post.java",
+		"/Users/hedi/Desktop/ITI 1521/Labs/Lab 4/PhotoPost.java",
+		"/Users/hedi/Desktop/ITI 1521/Labs/03/STUDENT .md",
+		"/Users/hedi/Desktop/03/Rational.java",
+		"/Users/hedi/Downloads/03/Rational.java",
+		"/Users/hedi/Desktop/ITI 1521/Labs/Lab 2/SecurityAgency.java",
+		"/Users/hedi/Desktop/ITI 1521/Labs/Lab 2/SecurityAgent.java",
+		"/Users/hedi/Desktop/ITI 1521/Labs/Lab 2/Combination.java",
+		"/Users/hedi/Desktop/ITI 1521/Labs/Lab 2/DoorLock.java",
+		"/Users/hedi/Desktop/ITI 1521/Labs/Lab 2/STUDENT .md",
+		"/Users/hedi/Desktop/iti1x21-asg01-master/CellValue.java",
+		"/Users/hedi/Desktop/iti1x21-asg01-master/GameState.java",
+		"/Users/hedi/Desktop/TicTacToe.java",
+		"/Users/hedi/Desktop/iti1x21-asg01-master/TicTacToe.java",
+		"/Users/hedi/Desktop/ITI 1521/iti1x21-asg01-master/TicTacToe.java",
+		"/Users/hedi/Downloads/TicTacToe.java",
+		"/Users/hedi/Downloads/Java/a1_solution/TicTacToeGame.java",
+		"/Users/hedi/Downloads/Java/a1_solution/TicTacToe.java"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 177.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

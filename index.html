@@ -1,0 +1,222 @@
+<!DOCTYPE html>
+<html lang="fr">
+   
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content=
+        "width=device-width, initial-scale=1.0">
+    <title>
+        Sondage concernant la plateforme YouTube
+    </title>
+
+  
+    <style>
+  
+        /* Styling the Body element i.e. Color, 
+        Font, Alignment */ 
+        body {
+            background-color: sandybrown;
+            font-family: Verdana;
+            text-align: center;
+        }
+  
+        /* Styling the Form (Color, Padding, Shadow) */
+        form {
+            background-color: lightgrey;
+            max-width: 500px;
+            margin: 50px auto;
+            padding: 30px 20px;
+            box-shadow: 2px 5px 10px rgba(0, 0, 0, 0.5);
+        }
+  
+        /* Styling form-control Class */
+        .form-control {
+            text-align: left;
+            margin-bottom: 25px;
+        }
+  
+        /* Styling form-control Label */ 
+        .form-control label {
+            display: block;
+            margin-bottom: 10px;
+        }
+  
+        /* Styling form-control input, 
+        select, textarea */
+        .form-control input,
+        .form-control select,
+        .form-control textarea {
+            border: 1px solid #777;
+            border-radius: 2px;
+            font-family: inherit;
+            padding: 10px;
+            display: block;
+            width: 95%;
+        }
+  
+        /* Styling form-control Radio 
+        button and Checkbox */
+        .form-control input[type="radio"],
+        .form-control input[type="checkbox"] {
+            display: inline-block;
+            width: auto;
+        }
+  
+        /* Styling Button */
+        button {
+            background-color: #05c46b;
+            border: 1px solid #777;
+            border-radius: 2px;
+            font-family: inherit;
+            font-size: 21px;
+            display: block;
+            width: 100%;
+            margin-top: 50px;
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+   
+<a href="https://www.youtube.com/">Lien vers YouTube</a>
+
+
+
+<body>
+
+
+    <h1>Sondage concernant la plateforme YouTube</h1>
+
+    <a href="https://www.youtube.com">
+<img src="youtube-nouveau-logo.jpeg" alt="HTML tuto" style="width:500px;height:100px;">
+</a>
+    
+
+   
+    <!-- Create Form -->
+    <form id="form">
+  
+        <!-- Details -->
+        <div class="form-control">
+            <label for="name" id="label-name">
+                Name
+            </label>
+  
+            <!-- Input Type Text -->
+            <input type="text"
+                   id="Nom"
+                   placeholder="Entrez votre Nom" />
+        </div>
+   
+        <div class="form-control">
+            <label for="email" id="label-email">
+                Email
+            </label>
+  
+            <!-- Input Type Email-->
+            <input type="email"
+                   id="label-email"
+                   placeholder="Entrer Votre adresse Email" />
+        </div>
+   
+        <div class="form-control">
+            <label for="age" id="label-age">
+                Age
+            </label>
+  
+            <!-- Input Type Text -->
+            <input type="text"
+                   id="age"
+                   placeholder="Entrez votre age" />
+        </div>
+   
+        <div class="form-control">
+            <label for="role" id="label-role">
+                Selectionnez votre situation actuelle
+            </label>
+              
+            <!-- Dropdown options -->
+            <select name="role" id="role">
+                <option value="étudiant">étudiant</option>
+                <option value="salarié">salarié</option>
+                <option value="chef d'entreprise">
+                    chef d'entreprise
+                </option>
+                <option value="autre">autre</option>
+            </select>
+        </div>
+   
+        <div class="form-control">
+            <label>
+                Est-ce que vous recommanderiez YouTube pour un ami ?
+            </label>
+  
+            <!-- Input Type Radio Button -->
+            <label for="recommed-1">
+                <input type="radio"
+                       id="recommed-1"
+                       name="recommed">Oui</input>
+            </label>
+            <label for="recommed-2">
+                <input type="radio"
+                       id="recommed-2"
+                       name="recommed">Non</input>
+            </label>
+            <label for="recommed-3">
+                <input type="radio"
+                       id="recommed-3"
+                       name="recommed">Peut-etre</input>
+            </label>
+        </div>
+   
+        <div class="form-control">
+            <label>Pourquoi regardez vous YouTube ?
+                <small>(Cochez tout ce qui est vrai)</small>
+            </label>
+            <!-- Input Type Checkbox -->
+            <label for="inp-1">
+                <input type="checkbox"
+                       name="inp">Peu de pubs</input></label>
+            <label for="inp-2">
+                <input type="checkbox"
+                       name="inp">Des videos de qualités</input></label>
+            <label for="inp-3">
+                <input type="checkbox"
+                       name="inp">Videos Accessibles gratuitement</input></label>
+            <label for="inp-4">
+                <input type="checkbox"
+                       name="inp">Attractivité du site</input></label>
+            <label for="inp-5">
+                <input type="checkbox"
+                       name="inp">Fromat des vidéos</input></label>
+            <label for="inp-6">
+                <input type="checkbox"
+                       name="inp">Nombre de créateurs de contenus</input></label>
+        
+        </div>
+   
+        <div class="form-control">
+            <label for="comment">
+                Pour toute suggestion ou commentaire additionnel
+            </label>
+  
+            <!-- multi-line text input control -->
+            <textarea name="comment" id="comment"
+                placeholder="Enter your comment here">
+            </textarea>
+        </div>
+   
+        <!-- Multi-line Text Input Control -->
+        <button type="submit" value="soumettre">
+            Soumettre
+        </button>
+
+
+
+    </form>
+
+            <author>Auteur : Hedi Ben Abid</author>
+
+</body>
+   
+</html>
